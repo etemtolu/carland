@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+  body{
+    @apply text-accent bg-body;
+  }
+  p{
+    @apply text-secondary
+  }
+  .h1{
+    @apply ted
+  }
+}

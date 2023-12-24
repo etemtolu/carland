@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+  body{
+    @apply text-accent bg-body;
+  }
+  p{
+    @apply text-secondary
+  }
+  .h1{
+    @apply text-4xl xl:text-[64px] text-primary xl:leading[72px] font-extrabold mb-[18px];
+  }
+  .h2{
+    @a
+  }
+}
